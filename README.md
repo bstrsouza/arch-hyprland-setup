@@ -10,7 +10,7 @@ Este repositório acompanha toda a evolução do sistema: desde a instalação b
 
 Este projeto faz parte do meu processo de aprendizado.
 
-Sou iniciante no ecossistema **Arch Linux** e no uso do **Hyprland**, e estou documentando toda a jornada — incluindo erros, ajustes e decisões ao longo do caminho.
+Sou iniciante na distribuição **Arch Linux** e no uso do **Hyprland**, e estou documentando toda a jornada — incluindo erros, ajustes e decisões ao longo do caminho.
 
 Durante o desenvolvimento, utilizo ferramentas de IA generativa como apoio para pesquisa, explicações e sugestões. No entanto, busco sempre entender, testar e validar as soluções antes de aplicá-las.
 
@@ -81,10 +81,11 @@ O objetivo não é apenas chegar a um setup final, mas construir conhecimento s�
 
 A documentação será organizada em etapas:
 
-* `docs/instalacao.md` → instalação do Arch Linux
-* `docs/pos-instalacao.md` → configuração inicial
-* `docs/hyprland.md` → setup do Hyprland
-* `docs/troubleshooting.md` → problemas e soluções
+* `docs/pre-install.md` → downloads, boot e etapas pré instalação
+* `docs/installation.md` → instalação do Arch Linux
+* `docs/post-install.md` → configurações adicionais do Arch Linux 
+* `docs/hyprland.md` → instalação e configuração do Hyprland
+* `docs/troubleshooting.md` → problemas e soluções encontrados no caminho
 
 ---
 
@@ -92,10 +93,10 @@ A documentação será organizada em etapas:
 
 Este projeto segue alguns princípios:
 
-* **Aprendizado ativo:** tudo é feito manualmente antes de automatizar
-* **Documentação clara:** cada passo deve ser compreensível
-* **Reprodutibilidade:** o setup deve ser replicável
-* **Evolução contínua:** o sistema será refinado ao longo do tempo
+* **Aprendizado prático:** Mão na massa para aprender fazendo.
+* **Documentação clara:** Cada passo deve ser compreensível.
+* **Reprodutibilidade:** O setup deve ser replicável.
+* **Evolução contínua:** O sistema será refinado ao longo do tempo.
 
 ---
 
