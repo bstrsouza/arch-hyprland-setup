@@ -88,7 +88,7 @@ Antes de iniciar a instalação guiada, atualize o script para a versão mais re
 pacman -Syu archinstall
 ```
 
-> *Este passo não é obrigatório, mas a versão do archinstall que veio com a ISO oficial que baixei era 4.1-1, enquanto a disponível no repositório já era a 4.3-1. Ao atualizar encontrei meu primeiro erro `Partition / too full`. Esse é um problema comum de memória RAM no ambiente Live. Veja como resolvi em [docs\troubleshooting.md](troubleshooting.md#Erro:-Partition-/-too-full).*
+> *Este passo não é obrigatório, mas a versão do archinstall que veio com a ISO oficial que baixei era 4.1-1, enquanto a disponível no repositório já era a 4.3-1. Ao atualizar encontrei meu primeiro erro `Partition / too full`. Esse é um problema comum de memória RAM no ambiente Live. Veja como resolvi em [docs/troubleshooting.md](troubleshooting.md#erro-partition--too-full).*
 
 
 ---
